@@ -1,0 +1,18 @@
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantClient.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantClient.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\obj\Debug\ComposantClient.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\obj\Debug\ComposantClient.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\obj\Debug\ComposantClient.csprojResolveAssemblyReference.cache
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantArticle.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantProceeding.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantArticle.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantProceeding.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantClient.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantClient.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantArticle.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantProceeding.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantArticle.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\bin\Debug\ComposantProceeding.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\obj\Debug\ComposantClient.csprojResolveAssemblyReference.cache
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\obj\Debug\ComposantClient.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantClient\obj\Debug\ComposantClient.pdb

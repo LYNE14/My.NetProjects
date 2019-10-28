@@ -1,0 +1,19 @@
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\NetRemoting.exe.config
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\NetRemoting.exe
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\NetRemoting.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\ComposantClient.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\ComposantClient.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\obj\Debug\NetRemoting.csprojResolveAssemblyReference.cache
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\obj\Debug\NetRemoting.exe
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\obj\Debug\NetRemoting.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\BDTPCom.mdf
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\BDTPCom_log.ldf
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\ComposantArticle.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\ComposantBD.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\ComposantProceeding.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\ComposantArticle.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\ComposantBD.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\ComposantProceeding.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\bin\Debug\NetRemoting.exe.config
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\obj\Debug\NetRemoting.exe
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\NetRemoting\obj\Debug\NetRemoting.pdb

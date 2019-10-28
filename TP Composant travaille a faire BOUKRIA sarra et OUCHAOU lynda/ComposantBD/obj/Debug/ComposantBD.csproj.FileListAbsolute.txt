@@ -1,0 +1,12 @@
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\bin\Debug\BDTPCom.mdf
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\bin\Debug\BDTPCom_log.ldf
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\bin\Debug\ComposantBD.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\bin\Debug\ComposantBD.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\obj\Debug\ComposantBD.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\obj\Debug\ComposantBD.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\bin\Debug\ComposantBD.dll.config
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\bin\Debug\ComposantArticle.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\bin\Debug\ComposantProceeding.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\bin\Debug\ComposantArticle.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\bin\Debug\ComposantProceeding.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantBD\obj\Debug\ComposantBD.csprojResolveAssemblyReference.cache

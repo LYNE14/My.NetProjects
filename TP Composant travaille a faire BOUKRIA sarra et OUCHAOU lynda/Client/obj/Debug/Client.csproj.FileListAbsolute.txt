@@ -1,0 +1,32 @@
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\Client.exe.config
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\Client.exe
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\Client.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.exe
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\MetroFramework.Design.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\MetroFramework.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\MetroFramework.Fonts.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.Form1.resources
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\ComposantClient.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\ComposantClient.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\ComposantArticle.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\ComposantArticle.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\Client.exe.config
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.exe
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\Client.exe
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\Client.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\ComposantArticle.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\ComposantClient.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\MetroFramework.Design.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\MetroFramework.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\MetroFramework.Fonts.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\ComposantArticle.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\bin\Debug\ComposantClient.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.Form1.resources
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.Properties.Resources.resources
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\Client\obj\Debug\Client.csproj.GenerateResource.Cache

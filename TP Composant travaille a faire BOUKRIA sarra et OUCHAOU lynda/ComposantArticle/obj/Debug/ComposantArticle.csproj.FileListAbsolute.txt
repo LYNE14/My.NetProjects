@@ -1,0 +1,9 @@
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantArticle\bin\Debug\ComposantArticle.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantArticle\bin\Debug\ComposantArticle.pdb
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantArticle\obj\Debug\ComposantArticle.dll
+c:\users\lynda\documents\visual studio 2013\Projects\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantArticle\obj\Debug\ComposantArticle.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantArticle\bin\Debug\ComposantArticle.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantArticle\bin\Debug\ComposantArticle.pdb
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantArticle\obj\Debug\ComposantArticle.csprojResolveAssemblyReference.cache
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantArticle\obj\Debug\ComposantArticle.dll
+E:\E\M2 Lynda\TP Composant travaille a faire BOUKRIA sarra et OUCHAOU lynda\ComposantArticle\obj\Debug\ComposantArticle.pdb
